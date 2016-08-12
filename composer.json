@@ -1,0 +1,14 @@
+{
+    "name": "Lemesdaniel/Grafika",
+    "require": {
+        "kosinix/grafika": "^1.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Lemes",
+            "email": "dlemes@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
