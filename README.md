@@ -1,10 +1,10 @@
 # Grafika Laravel
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
+<!-- [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
 [![Quality Score][ico-code-quality]][link-code-quality]
-[![Total Downloads][ico-downloads]][link-downloads]
+[![Total Downloads][ico-downloads]][link-downloads] -->
 
 Package is a simple service provider for [Grafika library](https://kosinix.github.io/grafika/). A beautiful library will images
 
