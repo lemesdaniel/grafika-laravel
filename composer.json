@@ -2,7 +2,7 @@
     "name": "lemesdaniel/grafika-laravel",
     "require": {
         "kosinix/grafika": "^1.4",
-	"illuminate/support": "5.0.*|5.1.*|5.2.*|5.3.*"
+	"illuminate/support": "5.*"
     },
     "license": "MIT",
     "authors": [
